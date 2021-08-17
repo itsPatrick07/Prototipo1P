@@ -63,3 +63,4 @@ C:\Users\user\Documents\PrimerParcial\Prototipo1P\Modelo SVBA\SVBA\CapaVista\obj
 C:\Users\user\Documents\PrimerParcial\Prototipo1P\Modelo SVBA\SVBA\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
 C:\Users\user\Documents\PrimerParcial\Prototipo1P\Modelo SVBA\SVBA\CapaVista\obj\Debug\CapaVista.dll
 C:\Users\user\Documents\PrimerParcial\Prototipo1P\Modelo SVBA\SVBA\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\user\Documents\PrimerParcial\Prototipo1P\Modelo SVBA\SVBA\CapaVista\obj\Debug\CapaVista.Mantenimientos.mantenimiento.resources

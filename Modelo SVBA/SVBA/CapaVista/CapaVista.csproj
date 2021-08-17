@@ -64,6 +64,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Mantenimientos\mantenimiento.resx">
+      <DependentUpon>mantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MDIPrincipal.resx">
       <DependentUpon>MDIPrincipal.cs</DependentUpon>
     </EmbeddedResource>

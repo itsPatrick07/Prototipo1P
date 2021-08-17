@@ -16,5 +16,35 @@ namespace CapaVista.Mantenimientos
         {
             InitializeComponent();
         }
+
+        private void btnCerrarSesion_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void btnGenerarReportes_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void btnEdicionCartelera_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void btnGestion_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
